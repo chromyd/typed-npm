@@ -1,6 +1,6 @@
 {
   "name": "typed-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My first shot at an npm module, in TypeScript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",	
