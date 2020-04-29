@@ -1,5 +1,5 @@
 export class Math {
-	square(n: number) {
+	square(n: number): number {
 		return n*n;
 	}
 }
